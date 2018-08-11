@@ -4,9 +4,15 @@
 </head>
 <body>
   <h1>This is a h1 element in remote git</h1>
-<<<<<<< HEAD
   <h2>h2 heading in test1</h2>
-=======
   <h3>Adding h3 in test3</h3>
->>>>>>> test3
+  <h4>Adding h4 in remote</h4>
+  <h5>Adding h5 in test5</h5>
+  <h6>Adding h6 in test6</h6>
+<<<<<<< HEAD
+	<p style="color:green;font-size:28px;">Adding a paragraph in test2</p>
+=======
+
+  <p style="color:red;font-size:18px;">Adding a paragraph in test1</p>
+>>>>>>> master
 </body>
